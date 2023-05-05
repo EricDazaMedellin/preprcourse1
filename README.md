@@ -1,2 +1,3 @@
-# preprcourse1
-Este es un repostiorio de prueba del Prep2
+este proyecto es una prueba y e como clonarlo desde github
+
+XXX
